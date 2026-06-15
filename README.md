@@ -4,13 +4,12 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
 
-🔗 [View Interactive Dashboard](https://datastudio.google.com/reporting/f56428e2-d3c8-405d-b76f-c6ce4d66b534)
-
 ## Description
 
 Built an interactive marketing performance dashboard in Looker Studio, connected to a PostgreSQL database via a custom SQL query. The dashboard tracks ad spend efficiency and return on marketing investment (ROMI) across 11 campaigns, with calculated fields and interactive filters for deeper analysis.
 
 ![Dashboard Overview](monthly_ad_spend_dashboard.png)
+🔗 [View Interactive Dashboard](https://datastudio.google.com/reporting/f56428e2-d3c8-405d-b76f-c6ce4d66b534)
 
 ## My Tasks
 
