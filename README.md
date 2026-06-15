@@ -10,7 +10,7 @@
 
 Built an interactive marketing performance dashboard in Looker Studio, connected to a PostgreSQL database via a custom SQL query. The dashboard tracks ad spend efficiency and return on marketing investment (ROMI) across 11 campaigns, with calculated fields and interactive filters for deeper analysis.
 
-![Dashboard Overview](dashboard_overview.png)
+![Dashboard Overview](monthly_ad_spend_dashboard.png)
 
 ## My Tasks
 
